@@ -1,6 +1,6 @@
 [URL01]
 https://github.com/islamsamy214/udapeople_devops_final_project
 [URL02]
-http://udapeople-0f7480e.s3-website-us-east-1.amazonaws.com
+http://udapeople-ba3d318.s3-website-us-east-1.amazonaws.com/
 [URL03]
-http://d3jm9ygtr6fj3l.cloudfront.net
+http://d1e8t4nd2zc70e.cloudfront.net/
