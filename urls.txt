@@ -1,0 +1,10 @@
+[URL01]
+https://github.com/islamsamy214/cdond-c3-projectstarter
+[URL02]
+http://udapeople-0f7480e.s3-website-us-east-1.amazonaws.com
+[URL03]
+http://d3jm9ygtr6fj3l.cloudfront.net
+[URL04]
+http://ec2-54-165-86-144.compute-1.amazonaws.com:3030
+[URL05]
+http://ec2-54-90-59-195.compute-1.amazonaws.com:9090/targets
